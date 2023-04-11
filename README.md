@@ -1,2 +1,2 @@
 # Titanic_challenge
-Code for the Kaggle TItanic Challenge
+Code for the Kaggle Titanic Challenge
